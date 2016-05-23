@@ -1,4 +1,4 @@
-local modpath = minetest.get_modpath("cak")
+local modpath = minetest.get_modpath("more_realistic_tools")
 
 -- Load files
 --dofile(modpath.."/nodes.lua")
