@@ -1,6 +1,6 @@
-minetest.register_tool("cak:stone_blade", {
+minetest.register_tool("more_realistic_tools:stone_blade", {
 	description = "Stone Blade",
-	inventory_image = "cak:stone_blade.png",
+	inventory_image = "more_realistic_tools:stone_blade.png",
 	tool_capabilities = {
 		full_punch_interval = 1.0,
 		max_drop_level=0,
@@ -11,9 +11,9 @@ minetest.register_tool("cak:stone_blade", {
 	},
 })
 
-minetest.register_tool("cak:wood_wedges", {
+minetest.register_tool("more_realistic_tools:wood_wedges", {
 	description = "Wood Wedges",
-	inventory_image = "cak_wood_wedges.png",
+	inventory_image = "more_realistic_tools_wood_wedges.png",
 	tool_capabilities = {
 		full_punch_interval = 1.2,
 		max_drop_level=0,

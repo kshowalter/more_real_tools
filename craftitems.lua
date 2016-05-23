@@ -1,28 +1,28 @@
-minetest.register_craftitem('cak:wood_powder', {
+minetest.register_craftitem('more_realistic_tools:wood_powder', {
   description = 'Wood Powder',
-  inventory_image = 'cak_wood_powder.png',
+  inventory_image = 'more_realistic_tools_wood_powder.png',
 })
-minetest.register_craftitem('cak:coal_powder', {
+minetest.register_craftitem('more_realistic_tools:coal_powder', {
   description = 'Coal Powder',
-  inventory_image = 'cak_coal_powder.png',
+  inventory_image = 'more_realistic_tools_coal_powder.png',
 })
-minetest.register_craftitem('cak:phenix_powder', {
+minetest.register_craftitem('more_realistic_tools:phenix_powder', {
   description = 'Phenix Powder',
-  inventory_image = 'cak_phenix_powder.png',
+  inventory_image = 'more_realistic_tools_phenix_powder.png',
 })
-minetest.register_craftitem('cak:phenix_lump', {
+minetest.register_craftitem('more_realistic_tools:phenix_lump', {
   description = 'Phenix Lump',
-  inventory_image = 'cak_phenix_lump.png',
+  inventory_image = 'more_realistic_tools_phenix_lump.png',
 })
-minetest.register_craftitem('cak:stone', {
+minetest.register_craftitem('more_realistic_tools:stone', {
   description = 'Stone',
-  inventory_image = 'cak_stone.png',
+  inventory_image = 'more_realistic_tools_stone.png',
 })
-minetest.register_craftitem('cak:grind_stone', {
+minetest.register_craftitem('more_realistic_tools:grind_stone', {
   description = 'Grind Stone',
-  inventory_image = 'cak_grind_stone.png',
+  inventory_image = 'more_realistic_tools_grind_stone.png',
 })
-minetest.register_craftitem('cak:wood_wedges', {
+minetest.register_craftitem('more_realistic_tools:wood_wedges', {
   description = 'Wood Wedges',
-  inventory_image = 'cak_wood_wedges.png',
+  inventory_image = 'more_realistic_tools_wood_wedges.png',
 })
